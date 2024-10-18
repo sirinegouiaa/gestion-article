@@ -13,7 +13,7 @@
     "env": { 
         "APP_ENV": "production", 
         "APP_DEBUG": "true", 
-        "APP_URL": "https://your.url.from.vercel.app", 
+        "APP_URL": "https://vercel.com/sirines-projects-07c5a8f1", 
         "APP_KEY": "base64:b+oKwZsFp6K2mLdIPaIaAFPEQfDCmIg763b4vBkIMSM=", 
  
         "APP_CONFIG_CACHE": "/tmp/config.php", 
